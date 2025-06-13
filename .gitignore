@@ -45,5 +45,6 @@ ehthumbs.db
 Thumbs.db
 
 potato/
+training/potato/
 __pycache__/
 *.pyc 
